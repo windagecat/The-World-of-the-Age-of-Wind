@@ -6,4 +6,4 @@ Regarding the Age of Wind, I share my perspective.
 
 
 ## Technology of the Age of Wind
-[Technology of the Age of Wind](./Technology-of-the-Age-of-Wind.md)
+[Technology of the Age of Wind](./Technology_of_the_Age_of_Wind.md)
