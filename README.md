@@ -7,3 +7,6 @@ Regarding the Age of Wind, I share my perspective.
 
 ## Technology of the Age of Wind
 [Technology of the Age of Wind](./Technology_of_the_Age_of_Wind.md)
+
+## Important concepts in the Age of Wind
+[Important concepts in the Age of Wind](./Diversity_in_the_Age_of_Wind.md)
